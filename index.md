@@ -1,3 +1,3 @@
 ## Welcome to PoliNetwork
 
-[--> Click here <--](https://polinetwork.github.io).
+[--> Click here <--](https://polinetwork.github.io)
