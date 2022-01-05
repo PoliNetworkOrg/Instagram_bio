@@ -33,7 +33,7 @@ jobs:
             ${{ runner.os }}-node-
 
       - name: 👨🏻‍💻 Install dependencies (1/2)
-        run: npm install --save-dev @babel/preset-env
+        run: npm install @babel/preset-env
 
       - name: 👨🏻‍💻 Install dependencies (2/2)
         run: npm ci
