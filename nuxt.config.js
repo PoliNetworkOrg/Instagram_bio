@@ -65,7 +65,8 @@ export default {
                 ]
               },
             plugins: [
-                ['@babel/plugin-proposal-private-methods', { loose: true }]
+                '@babel/plugin-proposal-class-properties',
+                '@babel/plugin-proposal-private-methods'
             ]
         }
     },
