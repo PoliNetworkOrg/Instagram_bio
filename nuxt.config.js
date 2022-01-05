@@ -56,20 +56,7 @@ export default {
 		'nuxt-i18n-easy',
 	  ],
 
-    // Build Configuration: https://go.nuxtjs.dev/config-build
-    build: {
-        babel: {
-            presets(env, [ preset, options ]) {
-                return [
-                  [ "@babel/preset-env", options ]
-                ]
-              },
-            plugins: [
-                '@babel/plugin-proposal-class-properties',
-                '@babel/plugin-proposal-private-methods'
-            ]
-        }
-    },
+ 
 
 	i18n: {
 		locales: [
