@@ -52,8 +52,7 @@ export default {
 
 
 	modules: [
-		'nuxt-i18n',
-		'nuxt-i18n-easy',
+		'nuxt-i18n'
 	  ],
 
  
