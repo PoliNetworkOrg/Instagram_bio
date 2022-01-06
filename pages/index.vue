@@ -1,34 +1,47 @@
 <template>
   <!-- ======= Hero Section ======= -->
-  <section class="section4">
-    <div class="hero-container">
-      <div style="padding-top: 10px;">&nbsp;</div>
-      <div style="width:100%; margin:auto; text-align:center;">
-        <div style="  width: 100%;">
-          <a href="https://polinetwork.github.io/">
+  <section class="section4" style="width: 100%; text-align: center">
+    <div class="hero-container" style="width: 100%; text-align: center">
+      <div style="padding-top: 10px">&nbsp;</div>
+      <div style="width: 100%; margin: auto; text-align: center">
+        <div style="width: 100%; text-align: center">
+          <a
+            style="width: 100%; text-align: center"
+            chref="https://polinetwork.github.io/"
+          >
             <div
-              style="width: 100%;float:left;text-align: center; 
-					align-content: center;
-					align-items: center;
-					align-self: center;
-					display: grid;"
+              style="
+                width: 100%;
+                float: left;
+                text-align: center;
+                align-content: center;
+                align-items: center;
+                align-self: center;
+                display: grid;
+              "
             >
               <img
                 src="/img/icon.png"
-                style="width: calc(3vw + 15px);float:left;margin:auto;"
+                style="width: calc(3vw + 15px); float: left; margin: auto"
               />
-              <h1 class="title2">&nbsp;PoliNetwork</h1>
+              <h1 style="width: 100%; text-align: center" class="title2">
+                &nbsp;PoliNetwork
+              </h1>
             </div>
           </a>
         </div>
       </div>
       <br />
-      <div style="padding-top: 16px;">&nbsp;</div>
+      <div style="padding-top: 16px">&nbsp;</div>
 
       <h2 class="subtext2">
-        {{ $t("Abbiamo l'obiettivo di costruire una rete coesa di studenti, per gli studenti.") }}
+        {{
+          $t(
+            "Abbiamo l'obiettivo di costruire una rete coesa di studenti, per gli studenti."
+          )
+        }}
       </h2>
-      <div style="padding-top: 0px;">&nbsp;</div>
+      <div style="padding-top: 0px">&nbsp;</div>
       <!--
 			<div class="button30">
 				<div class="button26">
@@ -49,17 +62,17 @@
 				</div>
 			</div>
             -->
-      <div style="padding-left:0.5rem;padding-right: 0.5rem;">
-        <div style="width:100%;text-align: center; margin: auto;">
+      <div style="padding-left: 0.5rem; padding-right: 0.5rem">
+        <div style="width: 100%; text-align: center; margin: auto">
           <div
             class="btn-get-started button2 button25"
-            style="font-size : calc(16px + 1vw);"
+            style="font-size: calc(16px + 1vw)"
           >
             <a
               href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSoAsUnhm18DEFVAqOBemBL4f5ac9f0Xl30k044WEUeHgvKZ4PKDd_LCLbO-sxtmqlzTQkKCEuVMtwX/pubhtml?gid=1674534059&single=true"
             >
-              <div style="padding: 5px;">
-                <span style="color:white;" class="textGroup2">
+              <div style="padding: 5px">
+                <span style="color: white" class="textGroup2">
                   📌 Clicca qui per tutti i gruppi matricole 2021/2022</span
                 >
               </div>
@@ -67,29 +80,31 @@
           </div>
         </div>
       </div>
-      <div style="padding-top: 0px;">&nbsp;</div>
-      <hr style="height:1px;border:none;color:#333;background-color:#333;" />
-      <div style="padding-top: 0px;">&nbsp;</div>
-      <h2 style="color:white;text-align:center;margin-bottom: 0px;">
+      <div style="padding-top: 0px">&nbsp;</div>
+      <hr
+        style="height: 1px; border: none; color: #333; background-color: #333"
+      />
+      <div style="padding-top: 0px">&nbsp;</div>
+      <h2 style="color: white; text-align: center; margin-bottom: 0px">
         Gruppi generali:
       </h2>
-      <div style="padding:0.2rem;"></div>
-      <div style="       padding-left: 1rem; padding-right:1rem">
+      <div style="padding: 0.2rem"></div>
+      <div style="padding-left: 1rem; padding-right: 1rem">
         <div class="button29">
           <div class="button30">
             <div class="button26">
               <div
                 class="btn-get-started button2 button25"
-                style="font-size : calc(16px + 1vw);"
+                style="font-size: calc(16px + 1vw)"
               >
                 <a href="https://t.me/polimatricole/6">
                   <table>
                     <tr>
-                      <td style="vertical-align: middle;padding: 5px;">
+                      <td style="vertical-align: middle; padding: 5px">
                         <img src="/img/tg.svg" class="imgTable" />
                       </td>
-                      <td style="padding: 5px;">
-                        <span style="color:white;" class="textGroup2"
+                      <td style="padding: 5px">
+                        <span style="color: white" class="textGroup2"
                           >Gruppo matricole triennale 2022/2023</span
                         >
                       </td>
@@ -103,16 +118,16 @@
             <div class="button26">
               <div
                 class="btn-get-started button2 button25"
-                style="font-size : calc(16px + 1vw);"
+                style="font-size: calc(16px + 1vw)"
               >
                 <a href="https://t.me/joinchat/uQEZIf_DBh85NzNk">
                   <table>
                     <tr>
-                      <td style="vertical-align: middle;padding: 5px;">
+                      <td style="vertical-align: middle; padding: 5px">
                         <img src="/img/tg.svg" class="imgTable" />
                       </td>
-                      <td style="padding: 5px;">
-                        <span style="color:white;" class="textGroup2"
+                      <td style="padding: 5px">
+                        <span style="color: white" class="textGroup2"
                           >Gruppo matricole magistrale 2021/2022</span
                         >
                       </td>
@@ -130,18 +145,18 @@
             <div class="button26">
               <div
                 class="btn-get-started button2 button25"
-                style="font-size : calc(16px + 1vw);"
+                style="font-size: calc(16px + 1vw)"
               >
                 <a
                   href="https://www.facebook.com/groups/matricole20172018polimi"
                 >
                   <table>
                     <tr>
-                      <td style="vertical-align: middle;padding: 5px;">
+                      <td style="vertical-align: middle; padding: 5px">
                         <img src="/img/fb.svg" class="imgTable" />
                       </td>
-                      <td style="padding: 5px;">
-                        <span style="color:white;" class="textGroup2"
+                      <td style="padding: 5px">
+                        <span style="color: white" class="textGroup2"
                           >Gruppo Facebook per tutti gli studenti</span
                         >
                       </td>
@@ -155,16 +170,16 @@
             <div class="button26">
               <div
                 class="btn-get-started button2 button25"
-                style="font-size : calc(16px + 1vw);"
+                style="font-size: calc(16px + 1vw)"
               >
                 <a href="https://t.me/PoliGruppo">
                   <table>
                     <tr>
-                      <td style="vertical-align: middle;padding: 5px;">
+                      <td style="vertical-align: middle; padding: 5px">
                         <img src="/img/tg.svg" class="imgTable" />
                       </td>
-                      <td style="padding: 5px;">
-                        <span style="color:white;" class="textGroup2"
+                      <td style="padding: 5px">
+                        <span style="color: white" class="textGroup2"
                           >Gruppo Telegram per tutti gli studenti</span
                         >
                       </td>
@@ -176,24 +191,28 @@
           </div>
         </div>
       </div>
-      <div style="padding-top: 0px;">&nbsp;</div>
-      <hr style="height:1px;border:none;color:#333;background-color:#333;" />
-      <div style="padding-top: 0px;">&nbsp;</div>
-      <h2 style="color:white;text-align:center;margin-bottom: 0px;">Extra:</h2>
-      <div style="padding:0.2rem;"></div>
+      <div style="padding-top: 0px">&nbsp;</div>
+      <hr
+        style="height: 1px; border: none; color: #333; background-color: #333"
+      />
+      <div style="padding-top: 0px">&nbsp;</div>
+      <h2 style="color: white; text-align: center; margin-bottom: 0px">
+        Extra:
+      </h2>
+      <div style="padding: 0.2rem"></div>
       <div class="button28">
         <div class="button27">
           <div :key="button.link" v-for="button in buttons" class="button26">
             <div
               class="btn-get-started button2 button25"
-              style="font-size : calc(16px + 1vw);"
+              style="font-size: calc(16px + 1vw)"
             >
               <a :href="button.link">
                 <table>
                   <tr>
-                    <td style="padding: 5px;">
+                    <td style="padding: 5px">
                       <span
-                        style="color:rgb(214, 209, 209);"
+                        style="color: rgb(214, 209, 209)"
                         class="textGroup2"
                         >{{ button.text }}</span
                       >
@@ -206,26 +225,28 @@
         </div>
       </div>
 
-      <div style="padding-top: 0px;">&nbsp;</div>
-      <hr style="height:1px;border:none;color:#333;background-color:#333;" />
-      <div style="padding-top: 5px;">&nbsp;</div>
-      <div style="width:100%; text-align:center;">
-        <h2 style="color:white;">Website &amp; social:</h2>
-        <div style="padding:0.2rem;"></div>
-        <div style="padding-left:1rem; padding-right: 1rem;">
+      <div style="padding-top: 0px">&nbsp;</div>
+      <hr
+        style="height: 1px; border: none; color: #333; background-color: #333"
+      />
+      <div style="padding-top: 5px">&nbsp;</div>
+      <div style="width: 100%; text-align: center">
+        <h2 style="color: white">Website &amp; social:</h2>
+        <div style="padding: 0.2rem"></div>
+        <div style="padding-left: 1rem; padding-right: 1rem">
           <div class="button28">
             <div class="button27">
               <div class="button31">
                 <a href="https://polinetwork.github.io">
                   <div
                     class="btn-get-started button2 button25"
-                    style="font-size : calc(16px + 1vw);"
+                    style="font-size: calc(16px + 1vw)"
                   >
                     <div>
                       <div>
-                        <div style="padding: 5px;">
+                        <div style="padding: 5px">
                           <span
-                            style="color:white;min-width: calc(20px + 1rem);"
+                            style="color: white; min-width: calc(20px + 1rem)"
                             class="textGroup2"
                             >🌐&nbsp;Web</span
                           >
@@ -239,21 +260,31 @@
                 <a href="https://instagram.com/polinetwork_">
                   <div
                     class="btn-get-started button2 button25"
-                    style="font-size : calc(16px + 1vw);"
+                    style="font-size: calc(16px + 1vw)"
                   >
                     <div>
                       <div>
                         <div
-                          style="vertical-align: middle;padding: 5px;min-width: calc(10px + 1rem);float:left;"
+                          style="
+                            vertical-align: middle;
+                            padding: 5px;
+                            min-width: calc(10px + 1rem);
+                            float: left;
+                          "
                         >
                           <img
                             src="/img/ig.svg"
-                            style="width: 100%;vertical-align: middle;max-width: calc(1px + 0.1rem); min-width: calc(10px + 1rem);"
+                            style="
+                              width: 100%;
+                              vertical-align: middle;
+                              max-width: calc(1px + 0.1rem);
+                              min-width: calc(10px + 1rem);
+                            "
                           />
                         </div>
-                        <div style="padding: 5px;float:left;">
+                        <div style="padding: 5px; float: left">
                           <span
-                            style="color:white;min-width: calc(20px + 1rem);"
+                            style="color: white; min-width: calc(20px + 1rem)"
                             class="textGroup2"
                             >&nbsp;IG</span
                           >
@@ -267,21 +298,31 @@
                 <a href="https://facebook.com/PolitecnicoDiMilanoNetwork">
                   <div
                     class="btn-get-started button2 button25"
-                    style="font-size : calc(16px + 1vw);"
+                    style="font-size: calc(16px + 1vw)"
                   >
                     <div>
                       <div>
                         <div
-                          style="vertical-align: middle;padding: 5px;min-width: calc(10px + 1rem);float:left;"
+                          style="
+                            vertical-align: middle;
+                            padding: 5px;
+                            min-width: calc(10px + 1rem);
+                            float: left;
+                          "
                         >
                           <img
                             src="/img/fb.svg"
-                            style="width: 100%;vertical-align: middle;max-width: calc(1px + 0.1rem); min-width: calc(10px + 1rem);"
+                            style="
+                              width: 100%;
+                              vertical-align: middle;
+                              max-width: calc(1px + 0.1rem);
+                              min-width: calc(10px + 1rem);
+                            "
                           />
                         </div>
-                        <div style="padding: 5px;float:left;">
+                        <div style="padding: 5px; float: left">
                           <span
-                            style="color:white;min-width: calc(20px + 1rem);"
+                            style="color: white; min-width: calc(20px + 1rem)"
                             class="textGroup2"
                             >&nbsp;FB</span
                           >
@@ -294,7 +335,7 @@
             </div>
           </div>
 
-          <div style="padding-top: 10px;">&nbsp;</div>
+          <div style="padding-top: 10px">&nbsp;</div>
         </div>
       </div>
     </div>
@@ -309,31 +350,31 @@ export default {
       buttons: [
         {
           link: "https://polinetwork.github.io/it/extra/index.html",
-          text: "🧩 Gruppi extra"
+          text: "🧩 Gruppi extra",
         },
         {
           link: "https://t.me/joinchat/4kO9DtAiTVM0NTU0",
-          text: "⚖ Diritto allo studio"
+          text: "⚖ Diritto allo studio",
         },
         {
           link: "https://t.me/joinchat/b8d7Iy5gKNE3MjU0",
-          text: "📝 Piano di studi"
+          text: "📝 Piano di studi",
         },
         {
           link: "https://t.me/AskPolimi",
-          text: "Domande per la rappresentanza?"
+          text: "Domande per la rappresentanza?",
         },
         {
           link: "https://polinetwork.github.io/graduatorie/",
-          text: "GRADUATORIE"
+          text: "GRADUATORIE",
         },
         {
           link: "https://polinetwork.github.io/it/extra/assoc/",
-          text: "Scopri le associazioni studentesche!"
-        }
-      ]
+          text: "Scopri le associazioni studentesche!",
+        },
+      ],
     };
-  }
+  },
 };
 </script>
 
