@@ -7,7 +7,7 @@
         <div style="width: 100%; text-align: center">
           <a
             style="width: 100%; text-align: center"
-            chref="https://polinetwork.github.io/"
+            href="https://polinetwork.github.io/"
           >
             <div
               style="
