@@ -101,7 +101,7 @@
                   <table>
                     <tr>
                       <td style="vertical-align: middle; padding: 5px">
-                        <img src="/img/tg.svg" class="imgTable" />
+                        <img src="/img/web.svg" class="imgTable" />
                       </td>
                       <td style="padding: 5px">
                         <span style="color: white" class="textGroup2"
@@ -124,7 +124,7 @@
                   <table>
                     <tr>
                       <td style="vertical-align: middle; padding: 5px">
-                        <img src="/img/tg.svg" class="imgTable" />
+                        <img src="/img/web.svg" class="imgTable" />
                       </td>
                       <td style="padding: 5px">
                         <span style="color: white" class="textGroup2"
