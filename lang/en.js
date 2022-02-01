@@ -10,5 +10,6 @@ export default {
   'Elezioni rappresentanti degli studenti': 'Election of student representatives', // UNUSED
   Scrivici: 'Write to us', // UNUSED
   Scuole: 'Schools', // UNUSED
-  'Abbiamo l\'obiettivo di costruire una rete coesa di studenti, per gli studenti.': 'We aim to build a cohesive student network for students.'
+  'Sito Principale': 'Main Website',
+  'Progetti Interessanti:': 'Interesting Projects:'
 }

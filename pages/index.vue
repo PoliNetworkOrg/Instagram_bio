@@ -7,7 +7,7 @@
         <div style="width: 100%; text-align: center">
           <a
             style="width: 100%; text-align: center"
-            href="https://polinetwork.github.io/"
+            href="https://polinetwork.org/"
           >
             <div
               style="
@@ -69,7 +69,7 @@
             style="font-size: calc(16px + 1vw)"
           >
             <a
-              href="https://polinetwork.org"
+              href="https://polinetwork.org/"
             >
               <div style="padding: 5px">
                 <span style="color: white" class="textGroup2">
@@ -97,7 +97,7 @@
                 class="btn-get-started button2 button25"
                 style="font-size: calc(16px + 1vw)"
               >
-                <a href="http://polinetwork.org/projects/poliauth">
+                <a href="https://polinetwork.org/projects/poliauth/">
                   <table>
                     <tr>
                       <td style="vertical-align: middle; padding: 5px">
