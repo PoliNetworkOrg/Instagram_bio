@@ -69,11 +69,11 @@
             style="font-size: calc(16px + 1vw)"
           >
             <a
-              href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSoAsUnhm18DEFVAqOBemBL4f5ac9f0Xl30k044WEUeHgvKZ4PKDd_LCLbO-sxtmqlzTQkKCEuVMtwX/pubhtml?gid=1674534059&single=true"
+              href="https://polinetwork.org"
             >
               <div style="padding: 5px">
                 <span style="color: white" class="textGroup2">
-                  📌 Clicca qui per tutti i gruppi matricole 2021/2022</span
+                  📌 Sito Principale</span
                 >
               </div>
             </a>
@@ -86,7 +86,7 @@
       />
       <div style="padding-top: 0px">&nbsp;</div>
       <h2 style="color: white; text-align: center; margin-bottom: 0px">
-        Gruppi generali:
+        Progetti Interessanti:
       </h2>
       <div style="padding: 0.2rem"></div>
       <div style="padding-left: 1rem; padding-right: 1rem">
@@ -139,97 +139,7 @@
           </div>
         </div>
       </div>
-      <div>
-        <div class="button29">
-          <div class="button30">
-            <div class="button26">
-              <div
-                class="btn-get-started button2 button25"
-                style="font-size: calc(16px + 1vw)"
-              >
-                <a
-                  href="https://www.facebook.com/groups/matricole20172018polimi"
-                >
-                  <table>
-                    <tr>
-                      <td style="vertical-align: middle; padding: 5px">
-                        <img src="/img/fb.svg" class="imgTable" />
-                      </td>
-                      <td style="padding: 5px">
-                        <span style="color: white" class="textGroup2"
-                          >Gruppo Facebook per tutti gli studenti</span
-                        >
-                      </td>
-                    </tr>
-                  </table>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="button30">
-            <div class="button26">
-              <div
-                class="btn-get-started button2 button25"
-                style="font-size: calc(16px + 1vw)"
-              >
-                <a href="https://t.me/PoliGruppo">
-                  <table>
-                    <tr>
-                      <td style="vertical-align: middle; padding: 5px">
-                        <img src="/img/tg.svg" class="imgTable" />
-                      </td>
-                      <td style="padding: 5px">
-                        <span style="color: white" class="textGroup2"
-                          >Gruppo Telegram per tutti gli studenti</span
-                        >
-                      </td>
-                    </tr>
-                  </table>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div style="padding-top: 0px">&nbsp;</div>
-      <hr
-        style="height: 1px; border: none; color: #333; background-color: #333"
-      />
-      <div style="padding-top: 0px">&nbsp;</div>
-      <h2 style="color: white; text-align: center; margin-bottom: 0px">
-        Extra:
-      </h2>
-      <div style="padding: 0.2rem"></div>
-      <div class="button28">
-        <div class="button27">
-          <div :key="button.link" v-for="button in buttons" class="button26">
-            <div
-              class="btn-get-started button2 button25"
-              style="font-size: calc(16px + 1vw)"
-            >
-              <a :href="button.link">
-                <table>
-                  <tr>
-                    <td style="padding: 5px">
-                      <span
-                        style="color: rgb(214, 209, 209)"
-                        class="textGroup2"
-                        >{{ button.text }}</span
-                      >
-                    </td>
-                  </tr>
-                </table>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
 
-      <div style="padding-top: 0px">&nbsp;</div>
-      <hr
-        style="height: 1px; border: none; color: #333; background-color: #333"
-      />
-      <div style="padding-top: 5px">&nbsp;</div>
       <div style="width: 100%; text-align: center">
         <h2 style="color: white">Website &amp; social:</h2>
         <div style="padding: 0.2rem"></div>
