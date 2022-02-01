@@ -97,7 +97,7 @@
                 class="btn-get-started button2 button25"
                 style="font-size: calc(16px + 1vw)"
               >
-                <a href="https://t.me/polimatricole/6">
+                <a href="http://polinetwork.org/projects/poliauth">
                   <table>
                     <tr>
                       <td style="vertical-align: middle; padding: 5px">
@@ -105,7 +105,7 @@
                       </td>
                       <td style="padding: 5px">
                         <span style="color: white" class="textGroup2"
-                          >Gruppo matricole triennale 2022/2023</span
+                          >PoliAuth</span
                         >
                       </td>
                     </tr>
@@ -120,7 +120,7 @@
                 class="btn-get-started button2 button25"
                 style="font-size: calc(16px + 1vw)"
               >
-                <a href="https://t.me/joinchat/uQEZIf_DBh85NzNk">
+                <a href="https://polinetwork.org/projects/webeepsync/">
                   <table>
                     <tr>
                       <td style="vertical-align: middle; padding: 5px">
@@ -128,7 +128,7 @@
                       </td>
                       <td style="padding: 5px">
                         <span style="color: white" class="textGroup2"
-                          >Gruppo matricole magistrale 2021/2022</span
+                          >WebeepSync</span
                         >
                       </td>
                     </tr>
